@@ -16,9 +16,9 @@
 }
 
 html {
-        min-height: 100vh;
-        background: var(--color-bg);
-        text-align: center;
+    min-height: 100vh;
+    background: var(--color-bg);
+    text-align: center;
     }
 
 
