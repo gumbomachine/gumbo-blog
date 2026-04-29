@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Project</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 23:14:01 +0200</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Apr 2026 23:27:10 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third</title>
+      <link>http://localhost:1313/posts/third/</link>
+      <pubDate>Wed, 29 Apr 2026 23:27:10 +0200</pubDate>
+      <guid>http://localhost:1313/posts/third/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Second</title>
+      <link>http://localhost:1313/posts/second/</link>
+      <pubDate>Wed, 29 Apr 2026 23:27:04 +0200</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
+      <description></description>
+    </item>
     <item>
       <title>First</title>
-      <link>https://example.org/posts/first/</link>
+      <link>http://localhost:1313/posts/first/</link>
       <pubDate>Wed, 29 Apr 2026 23:14:01 +0200</pubDate>
-      <guid>https://example.org/posts/first/</guid>
+      <guid>http://localhost:1313/posts/first/</guid>
       <description>&lt;p&gt;This is my first post.&lt;/p&gt;</description>
     </item>
   </channel>
