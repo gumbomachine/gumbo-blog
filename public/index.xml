@@ -1,32 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Project</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Project</description>
+    <title>Gumbo</title>
+    <link>https://blog.gumbo.dk/</link>
+    <description>Recent content on Gumbo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 23:27:10 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Third</title>
-      <link>http://localhost:1313/posts/third/</link>
-      <pubDate>Wed, 29 Apr 2026 23:27:10 +0200</pubDate>
-      <guid>http://localhost:1313/posts/third/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Second</title>
-      <link>http://localhost:1313/posts/second/</link>
-      <pubDate>Wed, 29 Apr 2026 23:27:04 +0200</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Wed, 29 Apr 2026 23:14:01 +0200</lastBuildDate>
+    <atom:link href="https://blog.gumbo.dk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://blog.gumbo.dk/posts/first/</link>
       <pubDate>Wed, 29 Apr 2026 23:14:01 +0200</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://blog.gumbo.dk/posts/first/</guid>
       <description>&lt;p&gt;This is my first post.&lt;/p&gt;</description>
     </item>
   </channel>

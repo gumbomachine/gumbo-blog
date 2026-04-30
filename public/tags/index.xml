@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Project</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Project</description>
+    <title>Tags on Gumbo</title>
+    <link>https://blog.gumbo.dk/tags/</link>
+    <description>Recent content in Tags on Gumbo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Apr 2026 23:14:01 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.gumbo.dk/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jello</title>
-      <link>http://localhost:1313/tags/jello/</link>
+      <link>https://blog.gumbo.dk/tags/jello/</link>
       <pubDate>Wed, 29 Apr 2026 23:14:01 +0200</pubDate>
-      <guid>http://localhost:1313/tags/jello/</guid>
+      <guid>https://blog.gumbo.dk/tags/jello/</guid>
       <description></description>
     </item>
     <item>
       <title>Monster</title>
-      <link>http://localhost:1313/tags/monster/</link>
+      <link>https://blog.gumbo.dk/tags/monster/</link>
       <pubDate>Wed, 29 Apr 2026 23:14:01 +0200</pubDate>
-      <guid>http://localhost:1313/tags/monster/</guid>
+      <guid>https://blog.gumbo.dk/tags/monster/</guid>
       <description></description>
     </item>
   </channel>
