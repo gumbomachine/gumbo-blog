@@ -15,17 +15,26 @@
     box-sizing: border-box;
 }
 
-html {
+body {
+    display: flex;
+    flex-direction: column;
     min-height: 100vh;
     background: var(--color-bg);
     color: var(--color-text);
     text-align: center;
-    }
-
-.boxed {
-    border: solid 5px #873226;
 }
 
+header {
+  min-height: 50px;
+}
+
+footer {
+  min-height: 50px;
+}
+
+main {
+  flex: 1;
+}
 .ascii-logo {
     font-size: 10px;
     margin-top: 50px;
