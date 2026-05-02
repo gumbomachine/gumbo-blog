@@ -1,6 +1,6 @@
 +++
 date = '2026-04-30T07:56:14+02:00'
-draft = true
+draft = false
 title = 'Welcome'
 +++
-**Welcome to my blog**
+**Welcome to the GUMBO Tech blog**
