@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gumbo</title>
-    <link>https://blog.gumbo.dk/tags/</link>
+    <link>https://gumbo.dk/tags/</link>
     <description>Recent content in Tags on Gumbo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://blog.gumbo.dk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gumbo.dk/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

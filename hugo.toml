@@ -1,4 +1,4 @@
-baseURL = 'https://blog.gumbo.dk/'
+baseURL = 'https://gumbo.dk/'
 languageCode = 'en-us'
 title = 'Gumbo'
 theme = 'gumbo'

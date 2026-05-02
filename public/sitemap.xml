@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.gumbo.dk/</loc>
+    <loc>https://gumbo.dk/</loc>
     <lastmod>2026-04-30T07:56:14+02:00</lastmod>
   </url><url>
-    <loc>https://blog.gumbo.dk/posts/</loc>
+    <loc>https://gumbo.dk/posts/</loc>
     <lastmod>2026-04-30T07:56:14+02:00</lastmod>
   </url><url>
-    <loc>https://blog.gumbo.dk/posts/welcome/</loc>
+    <loc>https://gumbo.dk/posts/welcome/</loc>
     <lastmod>2026-04-30T07:56:14+02:00</lastmod>
   </url><url>
-    <loc>https://blog.gumbo.dk/categories/</loc>
+    <loc>https://gumbo.dk/categories/</loc>
   </url><url>
-    <loc>https://blog.gumbo.dk/tags/</loc>
+    <loc>https://gumbo.dk/tags/</loc>
   </url>
 </urlset>
